@@ -1,4 +1,4 @@
-## Haoyu Wei's Home
+## Haoyu Wei's Research
 
 Email: cute@pku.edu.cn
 
