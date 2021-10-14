@@ -4,7 +4,7 @@ Email: cute@pku.edu.cn
 
 ### Applied Probability and Theoretical Statistics
 
-[1] Sharper Sub-Weibull Concentrations (*joint work with Dr Huiming Zhang*). See [here](https://arxiv.org/abs/2102.0245).
+[1] Sharper Sub-Weibull Concentrations (*joint work with Dr Huiming Zhang*). See [here](https://arxiv.org/abs/2102.02450).
 
 [2] Sub-exponential and -Gaussian Parameters Estimation for Tight Non-asymptotic Inference (*joint work with Professor Guang Cheng and Dr Huiming Zhang*). In progress, a discussion talk slides can be seen ([here](https://github.com/CuteHaoyu/cute.github.io/blob/gh-pages/cg-211011.pdf), if cannot view online, please download the pdf file to open.).
 
