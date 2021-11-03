@@ -22,6 +22,8 @@ Email: cute@pku.edu.cn
 
 [2] Smooth Tests for Normality in ANOVA (*joint work with Professor Song*). See [here](https://arxiv.org/abs/2110.04849).
 
+[3] Asymptotic in a class of network models with sub-Gamma perturbations (*joint work with Professor Jing Luo, Jiaxin Guo, and Xiaoyu Lei*). See [here](https://arxiv.org/abs/2111.01301).
+
 [3] Testing for Autocorrelation in Nonparametric Regression Models (*joint work with Professor Xiaojun Song*). In progress, appears soon.
 
 [4] On Smooth Tests for Paired Populations (*joint work with Professor O-Chia Chuang and Xiaojun Song*). In progress, appears soon.
