@@ -10,7 +10,7 @@ Email: cute@pku.edu.cn
 
 ### High Dimensional Statistics
 
-[1] Sparse Density Estimation with Measurement Errors (*joint work with Prof Xiaowei Yang, Dr Huiming Zhang, and Shouzheng Zhang*). See [here](https://arxiv.org/abs/1911.06215).
+[1] Sparse Density Estimation with Measurement Errors (*joint work with Prof Xiaowei Yang, Dr Huiming Zhang, and Shouzheng Zhang*). See [here](https://www.mdpi.com/1099-4300/24/1/30).
 
 [2] Heterogeneous Overdispersed Count Data Regressions via Double Penalized Estimations (*joint work with Dr Shaomin Li and Xiaoyu Lei*). See [here](https://arxiv.org/abs/2110.03552).
 
