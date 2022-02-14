@@ -14,7 +14,7 @@ Email: cute@pku.edu.cn
 
 [2] Heterogeneous Overdispersed Count Data Regressions via Double Penalized Estimations (*joint work with Dr Shaomin Li and Xiaoyu Lei*). See [here](https://arxiv.org/abs/2110.03552).
 
-[3] Inference and FDR Control for Ising Model (*joint work with Dr Huiming Zhang and Xiaoyu Lei*). In progress, appears soon.
+[3] Inference and FDR Control for Ising Model (*joint work with Dr Huiming Zhang and Xiaoyu Lei*). See [here](https://arxiv.org/abs/2202.05612).
 
 ### Econometrics
 
