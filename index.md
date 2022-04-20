@@ -2,7 +2,7 @@
 
 Email: cute@pku.edu.cn
 
-### Theoretical Statistics and Econometrics
+### Theoretical Econometrics
 
 [1] Sharper Sub-Weibull Concentrations (*joint work with Dr Huiming Zhang*). See [here](https://arxiv.org/abs/2102.02450).
 
